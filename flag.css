@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(186, 147, 223);
+}
+.flag {
+  width: 600px;
+  margin-left: 250px;
+  margin-right: auto;
+  margin-top: 50px;
+}
+.top {
+  border: 1px solid orangered;
+  height: 100px;
+  background-color: orangered;
+}
+.middle {
+  border: 1px solid white;
+  height: 100px;
+  background-color: white;
+}
+.bottom {
+  border: 1px solid green;
+  height: 100px;
+  background-color: green;
+}
+img {
+  width: 101px;
+  padding-left: 40%;
+}
+h1 {
+  padding-left: 500px;
+}
+input {
+  margin-left: 1000px;
+  width: 200px;
+  height: 30px;
+}
+h2 {
+  margin-left: 1050px;
+  margin-top: -250px;
+}

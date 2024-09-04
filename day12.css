@@ -1,0 +1,57 @@
+input {
+  margin-left: 900px;
+  width: 200px;
+  height: 30px;
+}
+h1 {
+  margin-left: 930px;
+  margin-top: -10px;
+}
+.traffic {
+  border: 2px solid black;
+  width: 7vw;
+  height: 40vh;
+  border-radius: 10px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.t {
+  border: 1px solid black;
+  height: 8.5vh;
+  width: 9vh;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-radius: 50%;
+}
+#red {
+  background: red;
+  background-image: radial-gradient(brown, transparent);
+}
+#yellow {
+  background: yellow;
+  background-image: radial-gradient(orange, transparent);
+}
+#green {
+  background: green;
+  background-image: radial-gradient(lime, transparent);
+}
+.pole {
+  border: 2px solid black;
+  width: 2vw;
+  height: 40vh;
+  background: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border-radius: 10p;
+}
+.stand {
+  border: 20px solid black;
+  width: 16vw;
+  margin-top: -10px;
+  margin-left: -80px;
+}
